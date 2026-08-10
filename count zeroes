@@ -1,0 +1,6 @@
+public static void main 
+(String[] args) {
+    int number = 100200300;
+    int count = countZeroes(number);
+    System.out.println("Number of zeroes in " + number + " is: " + count);
+}

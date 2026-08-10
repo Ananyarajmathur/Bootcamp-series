@@ -1,0 +1,8 @@
+public static void main (string args[]){
+    int arr= new int[]{1,2,3,4,5};
+    int suffixSum=0;
+    for(int i=arr.length-1; i>=0; i--){
+        suffixSum+=arr[i];
+        System.out.println("Suffix sum at index " + i + " is: " + suffixSum);
+    }
+}
