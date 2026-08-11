@@ -1,0 +1,32 @@
+class Solution {
+    public double myPow(double x, int n) {
+
+        if (n == 0) {
+            return 1;
+        }
+
+        long power = n;
+
+        if (power < 0) {
+            x = 1 / x;
+            power = -power;
+        }
+
+        return powerFunction(x, power);
+    }
+
+    private double powerFunction(double x, long n) {
+
+        if (n == 0) {
+            return 1;
+        }
+
+        double half = powerFunction(x, n / 2);
+
+        if (n % 2 == 0) {
+            return half * half;
+        } else {
+            return half * half * x;
+        }
+    }
+}
