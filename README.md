@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0124-binary-tree-maximum-path-sum) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
