@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -38,10 +40,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0257-binary-tree-paths) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ananyarajmathur/Bootcamp-series/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
